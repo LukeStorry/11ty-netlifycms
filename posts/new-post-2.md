@@ -1,5 +1,5 @@
 ---
-title: new post 2
+title: Here is a new test post
 date: 2020-10-29T14:51:41.596Z
 author: Luke
 summary: updated summary
