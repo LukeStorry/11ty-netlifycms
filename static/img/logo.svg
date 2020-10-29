@@ -46,11 +46,11 @@
      inkscape:window-height="1051"
      id="namedview15"
      showgrid="false"
-     inkscape:zoom="0.62765957"
+     inkscape:zoom="3.5292553"
      inkscape:cx="188"
      inkscape:cy="188"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="96"
+     inkscape:window-y="134"
      inkscape:window-maximized="0"
      inkscape:current-layer="g11" />
   <path
@@ -76,7 +76,8 @@
        d="M 187.733,0 C 84.216,0 0,84.216 0,187.733 c 0,103.509 84.216,187.734 187.733,187.734 103.518,0 187.734,-84.224 187.734,-187.734 C 375.466,84.216 291.25,0 187.733,0 Z"
        id="path9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssscs" />
+       sodipodi:nodetypes="ssscs"
+       style="fill:#008000" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:63.42132187px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58553302"
