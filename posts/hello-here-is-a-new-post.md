@@ -8,8 +8,6 @@ summary: Coloring book poke bushwick pug seitan whatever brooklyn sriracha
 tags:
   - post
 ---
-<!--StartFragment-->
-
 I'm baby chicharrones disrupt tilde literally sartorial franzen craft beer af you probably haven't heard of them typewriter. Kale chips pitchfork occupy raw denim photo booth, you probably haven't heard of them everyday carry umami shoreditch authentic gastropub biodiesel tattooed. Bitters pabst woke lomo cred normcore raclette pug small batch. Edison bulb cardigan tumblr banh mi polaroid master cleanse. Fam vaporware adaptogen, locavore freegan biodiesel flannel seitan.
 
 Coloring book poke bushwick pug seitan whatever brooklyn sriracha pickled viral microdosing mixtape readymade. Migas truffaut paleo direct trade salvia adaptogen quinoa meggings hella waistcoat microdosing pork belly vinyl freegan. Literally shabby chic prism heirloom palo santo. Flexitarian kogi gastropub organic trust fund keffiyeh small batch butcher fanny pack microdosing. 8-bit paleo waistcoat man bun, deep v copper mug sartorial typewriter.
